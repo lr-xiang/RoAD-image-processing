@@ -8,11 +8,11 @@ This is a program developed for processing images collected the RoAD system.
 
 ## Introduction
 
-RoAD is \\\
+*RoAD is a highly integrated and customized system for drought research. It integrates mobility, sensor placement flexibility, multi-functionality (navigation, imaging, plant transportation, precision irrigation, weighing), holographic imaging, and point-cloud data processing into a mobile platform that can be shared by multiple chamber rooms and multiple experiments. It technically automated and streamlined the entire experiment from sample placement, image acquisition, plant irrigation per moisture prescription all the way to data processing.
 
 ![System](images/RoAD-system.png)
 
-We developed image processing pipeline
+*We developed automated image processing pipelines that include image segmentation and phenotypic traits extraction in both 2D and 3D.
 
 ![Results](images/Data-analysis.png)
 
