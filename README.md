@@ -6,9 +6,11 @@ RoAD-image-processing
 
 This is a program developed for processing images collected the RoAD system.
 
-![Results](images/Figure_2.png)
-
 ## Introduction
+
+![System](images/RoAD-system.png)
+
+![Results](images/Data-analysis.png)
 
 ## Getting Started
 
