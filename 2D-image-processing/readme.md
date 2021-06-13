@@ -7,6 +7,8 @@ RoAD 2D image processing
 This is a program developed for processing 2D images collected by an RGB camera in the RoAD system.
 Implemented in Matlab.
 
+![Image](../images/image2d.png)
+
 ## Getting Started
 
 ### Dependencies
