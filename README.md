@@ -16,7 +16,8 @@ We developed image processing pipeline
 
 ![Results](images/Data-analysis.png)
 
-* [Robotic Assay for Drought (RoAD): An Automated Phenotyping System for Brassinosteroid and Drought Response](https://www.biorxiv.org/content/10.1101/2020.06.01.128199v1.abstract)
+* see more details in our paper:
+[Robotic Assay for Drought (RoAD): An Automated Phenotyping System for Brassinosteroid and Drought Response](https://www.biorxiv.org/content/10.1101/2020.06.01.128199v1.abstract)
 
 ## Getting Started
 
