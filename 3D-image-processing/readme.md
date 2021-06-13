@@ -4,7 +4,8 @@ RoAD 3D image processing
 
 ## Description
 
-This is a program developed for processing 3D images collected by a laser sacnner in RoAD system. 
+This is a program developed for processing 3D images collected by a laser scanner in the RoAD system.
+Implemented in C++.
 
 ## Getting Started
 
