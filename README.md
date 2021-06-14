@@ -1,6 +1,8 @@
 # RoAD-image-processing
 
-## This is a program developed for processing images collected the RoAD system.
+## Description
+
+This is a program developed for processing images collected the RoAD system.
 
 ## Introduction
 
