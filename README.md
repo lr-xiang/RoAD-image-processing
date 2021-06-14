@@ -26,6 +26,16 @@ see README files in subfolders.
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Citation
+If you find this work or code useful for your research, please cite:
+```
+@article {Xiang2020.06.01.128199,
+	author = {Xiang, Lirong and Nolan, Trevor M. and Bao, Yin and Elmore, Mitch and Tuel, Taylor and Gai, Jingyao and Shah, Dylan and Huser, Nicole M. and Hurd, Ashley M. and McLaughlin, Sean A. and Howell, Stephen H. and Walley, Justin W. and Yin, Yanhai and Tang, Lie},
+	title = {Robotic Assay for Drought (RoAD): An Automated Phenotyping System for Brassinosteroid and Drought Response},
+	year = {2020},
+	doi = {10.1101/2020.06.01.128199},
+	journal = {bioRxiv}
+}
+```
 
 ## Acknowledgments
 
