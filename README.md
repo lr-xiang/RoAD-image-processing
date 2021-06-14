@@ -1,10 +1,6 @@
-# Project Title
+# RoAD-image-processing
 
-RoAD-image-processing
-
-## Description
-
-This is a program developed for processing images collected the RoAD system.
+## This is a program developed for processing images collected the RoAD system.
 
 ## Introduction
 
